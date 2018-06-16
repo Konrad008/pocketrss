@@ -18,7 +18,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 class MainController extends Controller
 {
-    const CONSUMER_KEY = '77753-2699fe29fd000d7223a69c78';
+    const CONSUMER_KEY = 'PASTE HIERE YOUR API KEY';
 
     private $session;
 
